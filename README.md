@@ -26,7 +26,7 @@ Soy un desarrollador curioso y proactivo, con ganas de aprender y construir solu
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CHGsmrO&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CHGsmr&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CHGsmr&layout=compact&theme=tokyonight)
 
 
