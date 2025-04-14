@@ -59,7 +59,7 @@ Herramienta en Python para análisis de datos abiertos en CSV y JSON.
 
 - 🤓 Soy fan de los acertijos lógicos
 - 📚 Me gusta leer sobre filosofía y ciencia ficción
-- 🐱 Tengo un gato llamado Pixel
+- 🐱 Tengo un gato llamado Rengar
 
 ---
 
